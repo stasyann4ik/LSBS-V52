@@ -8,7 +8,7 @@ Discord link : https://discord.gg/DAQVzRAxKt
 ## How to play LSBS: ##
 
 ### Server ###
-1: Download the server and extract it.
+1: Download the server and extract it. (already not can download)
 
 2: Open terminal on your computer and go to BSDS directory.
 
